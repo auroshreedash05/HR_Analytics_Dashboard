@@ -3,15 +3,15 @@
 
 ## 📋Overview
 
-### Data
+### 📂Data
 #### [Dataset](https://www.kaggle.com/datasets/prishatank/employee-hr-dataset)
 #### Tables and Columns:-
 - HR Dataset:- EmpId, Satisfaction, Evaluation, number_of_projects, average_montly_hours, time_spent_company, work_accident, Promotion, Department, Salary_INR, Churn, Churn Status, Avg Salary
-### Tools Used:-
+### ⚒️Tools Used:-
 - Excel
 - Pivot table
 - Pivot chart
-### Question Solved
+### ❓Question Solved
 - How many employees are left?
 - What is the average satisfaction rate of employees who stayed?
 - Which department employees are left most?
