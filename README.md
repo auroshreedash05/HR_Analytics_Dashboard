@@ -12,3 +12,12 @@
 - Pivot table
 - Pivot chart
 ### Question Solved
+- How many employees are left?
+- What is the average satisfaction rate of employees who stayed?
+- Which department employees are left most?
+- What is the average salary of employees who left?
+- Does average monthly hours become the employees' churn?
+- What are the average number of projects of the employees who left?
+- The average salary of each department?
+- Does the promotion reduce churn in the company?
+- Does less salary get the more churn of employees?
