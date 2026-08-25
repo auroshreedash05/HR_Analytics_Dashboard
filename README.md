@@ -21,3 +21,4 @@
 - The average salary of each department?
 - Does the promotion reduce churn in the company?
 - Does less salary get the more churn of employees?
+### 💡Key Insights
