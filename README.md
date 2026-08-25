@@ -7,3 +7,7 @@
 #### [Dataset](https://www.kaggle.com/datasets/prishatank/employee-hr-dataset)
 #### Tables and Columns:-
 - HR Dataset:- EmpId, Satisfaction, Evaluation, number_of_projects, average_montly_hours, time_spent_company, work_accident, Promotion, Department, Salary_INR, Churn, Churn Status, Avg Salary
+### Tools Used:-
+- Excel
+- Pivot table
+- Pivot chart
