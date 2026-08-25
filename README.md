@@ -5,3 +5,5 @@
 
 ### Data
 #### [Dataset](https://www.kaggle.com/datasets/prishatank/employee-hr-dataset)
+#### Tables and Columns:-
+- EmpId, Satisfaction, Evaluation, number_of_projects, average_montly_hours, time_spent_company
