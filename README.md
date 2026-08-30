@@ -27,4 +27,4 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - Sales department have the highest churn status in the company.
 - Average salary is the 46,430rs which is less than stayed employee 67,840rs.
 - Average monthly working hours is higher who left the company most which is 207.42hrs.
-- 
+- Average number of project is little bit higher 3.9 employees left the company and 3.8 who stayed in company.
