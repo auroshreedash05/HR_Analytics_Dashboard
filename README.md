@@ -26,5 +26,5 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - 6.67 out of 10 is the average satisfaction rate of employee who stayed in the company.
 - Sales department have the highest churn status in the company.
 - Average salary is the 46,430rs which is less than stayed employee 67,840rs.
-- Average monthly working hours is higher who left the company most.
+- Average monthly working hours is higher who left the company most which is 207.42hrs.
 - 
