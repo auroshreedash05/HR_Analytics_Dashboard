@@ -31,3 +31,4 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - Average salary of each department is 57k-66k rs but in Management department is higher almost 1lkh per month.
 - The promotion is the biggest reason for employees left the company 5.96% where 94.04% are stayed with promotion in the company.
 - Each department average salary is low which is under 60k rs that's why employees left the company.
+### 📝Conclusion
