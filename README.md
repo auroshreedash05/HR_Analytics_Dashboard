@@ -32,3 +32,4 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - The promotion is the biggest reason for employees left the company 5.96% where 94.04% are stayed with promotion in the company.
 - Each department average salary is low which is under 60k rs that's why employees left the company.
 ### 📝Conclusion
+Increasing salaries, providing more promotion opportunities, and reducing working hours can improve employee satisfaction and help reduce employee churn..
