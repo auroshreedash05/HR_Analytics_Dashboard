@@ -29,3 +29,4 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - Average monthly working hours is higher who left the company most which is 207.42hrs.
 - Average number of project is little bit higher 3.9 employees left the company and 3.8 who stayed in company.
 - Average salary of each department is 57k-66k rs but in Management department is higher almost 1lkh per month.
+- The promotion is the biggest reason for employees left the company 5.96% where 94.04% are stayed with promotion in the company.
