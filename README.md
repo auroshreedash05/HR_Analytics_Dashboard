@@ -23,3 +23,4 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - Does less salary get the more churn of employees?
 ### 💡Key Insights
 - Out of 15k employee 3571 (23.81%) are left the company.
+- 6.67 out of 10 is the average satisfaction rate of employee who stayed in the company
