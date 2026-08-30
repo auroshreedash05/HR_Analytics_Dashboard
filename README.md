@@ -16,7 +16,7 @@ Analyze over 15k+ HR dataset to check that why employee churn increases.
 - What is the average satisfaction rate of employees who stayed?
 - Which department employees are left most?
 - What is the average salary of employees who left?
-- Does average monthly hours become the employees' churn?
+- Does average monthly hours become the employee's churn?
 - What are the average number of projects of the employees who left?
 - The average salary of each department?
 - Does the promotion reduce churn in the company?
