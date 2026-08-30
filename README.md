@@ -2,7 +2,7 @@
 <img width="1433" height="749" alt="image" src="https://github.com/user-attachments/assets/f2e1230f-b90e-48de-9d71-1c7dda7058b3" />
 
 ## 📋Overview
-Analyze over 15k+ HR Dataset
+Analyze over 15k+ HR dataset to check that why employee churn increases.
 ### 📂Data
 #### [Dataset](https://www.kaggle.com/datasets/prishatank/employee-hr-dataset)
 #### Tables and Columns:-
